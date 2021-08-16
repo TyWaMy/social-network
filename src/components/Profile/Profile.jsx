@@ -2,6 +2,7 @@ import React from 'react';
 import MyPosts from './MyPost/MyPopsts';
 import s from './Profile.module.css';
 
+
 const Profile = () => {
 return (
   <div>
